@@ -4,6 +4,8 @@
 
 Real-time universal translation between any 2 languages
 
+![Starfleet Universal Translator](assets/images/Starfleet_universal_translator%2C_2150s.webp)
+
 ## Specification
 
 Create the highest level language abstraction library.
