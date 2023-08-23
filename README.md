@@ -4,16 +4,12 @@
 
 Real-time universal translation between any 2 languages
 
-<<<<<<< HEAD:readme.md
-![Starfleet Universal Translator](assets/images/Starfleet_universal_translator%2C_2150s.webp)
-=======
 Input: text or audio
 Output: text or audio
 
 Example:
 
 User1 speaks into their mic in English and User2 hears in realtime the translation
->>>>>>> 0855e6e (#):README.md
 
 ## Specification
 
