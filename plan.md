@@ -1,8 +1,9 @@
 # Priority queue
 
-* open source - translation library or program
 * open source - LLM that runs very fast
   * WizardLM 7B Uncensored
+    * with Serge - big delay before it outputs the result
+* open source - translation library or program
 * real time: text -> text
 * open source - Speech To Text library
 * real time: audio -> text
