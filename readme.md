@@ -6,13 +6,25 @@ Real-time universal translation between any 2 languages
 
 ![Starfleet Universal Translator](assets/images/Starfleet_universal_translator%202C_2150s.png)
 
-Input: text or audio
-Output: text or audio
+Input
 
-Example:
+* text
+* audio
 
-User1 speaks into their mic in English and User2 hears in realtime the translation
+Output
 
+* text
+* audio
+
+Examples
+
+User1 speaks into their mic in English and User2 hears in realtime the translation in the language of their choosing
+
+User1 types in English and User2 sees in realtime the translation in the language of their choosing
+
+And other 2 combinations: text -> audio or audio -> text
+
+Can also be text + audio -> text + audio
 
 ## Specification
 
