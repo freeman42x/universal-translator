@@ -32,7 +32,8 @@ Create the highest level language abstraction library.
 
 It should not just work with current human languages but also allow translating between:
 
-* future human languages
+* future or past human languages
+* made up of languages like Klingon, Esperanto, etc.
 * animal languages
 * plant, fungi etc. languages - for any life form
 * alien languages
