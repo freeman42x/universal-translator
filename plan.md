@@ -11,3 +11,12 @@
 * open source - Text To Speech library
 * real time: audio -> audio
 * real time: text -> audio
+
+Universal Translator - Minimum Viable Product
+
+* Architecture
+  * Server - [Deno](https://deno.com/)
+  * GUI - [fresh](https://github.com/denoland/fresh)
+* Similar projects
+  * [RTranslator](https://github.com/niedev/RTranslator)
+  * [Instant Voice Translate](https://play.google.com/store/apps/details?id=com.erudite.translator&hl=en&gl=US)
