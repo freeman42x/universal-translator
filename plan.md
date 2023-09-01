@@ -12,14 +12,16 @@
 * real time: audio -> audio
 * real time: text -> audio
 
-Universal Translator - Minimum Viable Product
+Universal Translator
 
 * Architecture
-  * Server - [Deno](https://deno.com/)
-  * GUI
-    * Framework [fresh](https://github.com/denoland/fresh)
-    * Hosted in [Tauri](https://tauri.app/)
-* Feasability Study
+  * MVP - Minimum Viable Product - Desktop to Desktop
+    * Server - [Deno](https://deno.com/)
+    * Web view [Tauri](https://tauri.app/)
+    * GUI Framework [fresh](https://github.com/denoland/fresh)
+* Pitch
+  * Feasability Study
+* [Feasability Study](https://github.com/freeman42x/blog/blob/master/Articles/Project%20Feasibility%20Study%20Method/Project%20Feasibility%20Study%20Method.md)
   * Similar projects
     * [RTranslator](https://github.com/niedev/RTranslator)
     * [Instant Voice Translate](https://play.google.com/store/apps/details?id=com.erudite.translator&hl=en&gl=US)
