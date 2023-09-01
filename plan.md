@@ -16,8 +16,10 @@ Universal Translator - Minimum Viable Product
 
 * Architecture
   * Server - [Deno](https://deno.com/)
-  * GUI - [fresh](https://github.com/denoland/fresh)
-    * Modern Electron alternative - Neutralino?
-* Similar projects
-  * [RTranslator](https://github.com/niedev/RTranslator)
-  * [Instant Voice Translate](https://play.google.com/store/apps/details?id=com.erudite.translator&hl=en&gl=US)
+  * GUI
+    * Framework [fresh](https://github.com/denoland/fresh)
+    * Hosted in [Tauri](https://tauri.app/)
+* Feasability Study
+  * Similar projects
+    * [RTranslator](https://github.com/niedev/RTranslator)
+    * [Instant Voice Translate](https://play.google.com/store/apps/details?id=com.erudite.translator&hl=en&gl=US)
