@@ -21,8 +21,9 @@ Universal Translator
   * Every installation can act as a server to which other instances can connect to converse via code
   * Technologies
     * Server - [Deno](https://deno.com/)
-    * Web view [Tauri](https://tauri.app/)
-    * GUI Framework [fresh](https://github.com/denoland/fresh)
+    * Web view - [Tauri](https://tauri.app/)
+    * GUI Framework - [fresh](https://github.com/denoland/fresh)
+    * Reverse proxy - [fast reverse proxy](https://github.com/fatedier/frp)
   * Testing
     * LangA -> LangB -> LangA + LLM rating estimation of same meaning
 * Pitch
