@@ -14,8 +14,9 @@
 
 Universal Translator
 
-* Architecture
-  * MVP - Minimum Viable Product - Desktop to Desktop
+* Architecture - MVP - Minimum Viable Product - Desktop to Desktop
+  * Every installation can act as a server to which other instances can connect to converse via code
+  * Technologies
     * Server - [Deno](https://deno.com/)
     * Web view [Tauri](https://tauri.app/)
     * GUI Framework [fresh](https://github.com/denoland/fresh)
