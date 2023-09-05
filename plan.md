@@ -2,6 +2,7 @@
 
 * MVP - Minimum Viable Product
   * open source - LLM that runs very fast
+    * [Text generation web UI](https://github.com/oobabooga/text-generation-webui/tree/main)
     * WizardLM 7B Uncensored
       * with Serge - big delay before it outputs the result
       * with llama.cpp ~1 second delay
