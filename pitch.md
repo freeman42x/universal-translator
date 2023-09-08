@@ -1,4 +1,4 @@
-Unlock a world without language barriers with our Universal Translator—a real-time, multi-modal, multi-species translation tool. 
+# Unlock a world without language barriers with our Universal Translator—a real-time, multi-modal, multi-species translation tool
 
 **Why It's Game-Changing:**
 
@@ -9,6 +9,7 @@ Unlock a world without language barriers with our Universal Translator—a real-
 **Why We Need Your Support on Open Collective:**
 
 To make this revolutionary tool available for everyone, we're seeking funding for:
+
 1. R&D: Perfecting the language models and expanding the language database.
 2. Infrastructure: Building robust servers for real-time translation.
 3. Accessibility: Making it available for various platforms and devices.
