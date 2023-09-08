@@ -1,11 +1,16 @@
 # Priority queue
 
 * MVP - Minimum Viable Product
+  * GPT Engineer
   * open source - LLM that runs very fast
     * [Text generation web UI](https://github.com/oobabooga/text-generation-webui/tree/main)
     * WizardLM 7B Uncensored
       * with Serge - big delay before it outputs the result
       * with llama.cpp ~1 second delay
+  * Primitive task prioritization engine and use it on these tasks
+    * run prioritization automatically or on key shortcut
+    * build the dependency tree/plan leading to the goal
+    * prioritize but also expand, rewrite, generate, remove
   * open source - translation library or program - LLMs can fulfill this task and even correct mistakes
   * real time: text -> text
 
