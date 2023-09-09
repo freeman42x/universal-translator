@@ -4,6 +4,9 @@
   * CI + binary cache - [Hydra](https://github.com/NixOS/hydra)
     * switch to HTTPS? running under Tailscale VPN so little reason
   * open source - LLM that runs very fast
+    * try
+      * [LangChain.js](https://github.com/langchain-ai/langchainjs)
+      * [vLLM](https://github.com/vllm-project/vllm)
     * [Text generation web UI](https://github.com/oobabooga/text-generation-webui/tree/main)
     * WizardLM 7B Uncensored
       * with Serge - big delay before it outputs the result
