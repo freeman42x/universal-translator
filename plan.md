@@ -1,20 +1,22 @@
 # Priority queue
 
 * MVP - Minimum Viable Product
-  * GPT Engineer
+  * set up Nix cache for team
+    * self hosted alternative ideally
+    * if self hosted too hard then - [cachix](https://www.cachix.org/) etc.
   * open source - LLM that runs very fast
     * [Text generation web UI](https://github.com/oobabooga/text-generation-webui/tree/main)
     * WizardLM 7B Uncensored
       * with Serge - big delay before it outputs the result
       * with llama.cpp ~1 second delay
-  * Primitive task prioritization engine and use it on these tasks
+  * primitive task prioritization engine and use it on these tasks
     * run prioritization automatically or on key shortcut
     * build the dependency tree/plan leading to the goal
     * prioritize but also expand, rewrite, generate, remove
   * open source - translation library or program - LLMs can fulfill this task and even correct mistakes
   * real time: text -> text
 
-* Enhance
+* enhance
   * open source - Speech To Text library
   * real time: audio -> text
   * open source - Text To Speech library
