@@ -1,9 +1,8 @@
 # Priority queue
 
 * MVP - Minimum Viable Product
-  * set up own [Nix binary cache](https://nixos.wiki/wiki/Binary_Cache) for team
-    * self hosted alternative ideally
-    * if self hosted too hard then - [cachix](https://www.cachix.org/) etc.
+  * CI + binary cache - [Hydra](https://github.com/NixOS/hydra)
+    * switch to HTTPS? running under Tailscale VPN so little reason
   * open source - LLM that runs very fast
     * [Text generation web UI](https://github.com/oobabooga/text-generation-webui/tree/main)
     * WizardLM 7B Uncensored
