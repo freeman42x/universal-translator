@@ -1,7 +1,7 @@
 # Priority queue
 
 * MVP - Minimum Viable Product
-  * set up Nix cache for team
+  * set up own [Nix binary cache](https://nixos.wiki/wiki/Binary_Cache) for team
     * self hosted alternative ideally
     * if self hosted too hard then - [cachix](https://www.cachix.org/) etc.
   * open source - LLM that runs very fast
@@ -9,10 +9,6 @@
     * WizardLM 7B Uncensored
       * with Serge - big delay before it outputs the result
       * with llama.cpp ~1 second delay
-  * primitive task prioritization engine and use it on these tasks
-    * run prioritization automatically or on key shortcut
-    * build the dependency tree/plan leading to the goal
-    * prioritize but also expand, rewrite, generate, remove
   * open source - translation library or program - LLMs can fulfill this task and even correct mistakes
   * real time: text -> text
 
