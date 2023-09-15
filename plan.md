@@ -1,20 +1,6 @@
 # Priority queue
 
 * MVP - Minimum Viable Product
-  * CI + binary cache - [Hydra](https://github.com/NixOS/hydra)
-    * switch to HTTPS? running under Tailscale VPN so little reason
-  * research [Grammatical Framework](https://www.grammaticalframework.org/)
-    * [Resource Grammar Library](https://github.com/GrammaticalFramework/gf-rgl) is the standard library for Grammatical Framework. It covers the morphology and basic syntax of over 30 languages
-    * [Abstract Wikipedia](https://meta.wikimedia.org/wiki/Abstract_Wikipedia)
-  * open source - LLM that runs very fast
-    * try
-      * [LangChain.js](https://github.com/langchain-ai/langchainjs)
-      * [vLLM](https://github.com/vllm-project/vllm)
-    * [Text generation web UI](https://github.com/oobabooga/text-generation-webui/tree/main)
-    * WizardLM 7B Uncensored
-      * with Serge - big delay before it outputs the result
-      * with llama.cpp ~1 second delay
-  * open source - translation library or program - LLMs can fulfill this task and even correct mistakes
   * real time: text -> text
 
 * enhance
