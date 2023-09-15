@@ -4,6 +4,7 @@
   * CI + binary cache - [Hydra](https://github.com/NixOS/hydra)
     * switch to HTTPS? running under Tailscale VPN so little reason
   * research [Grammatical Framework](https://www.grammaticalframework.org/)
+    * [Resource Grammar Library](https://github.com/GrammaticalFramework/gf-rgl) is the standard library for Grammatical Framework. It covers the morphology and basic syntax of over 30 languages
   * open source - LLM that runs very fast
     * try
       * [LangChain.js](https://github.com/langchain-ai/langchainjs)
