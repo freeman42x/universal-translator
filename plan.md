@@ -3,6 +3,7 @@
 * MVP - Minimum Viable Product
   * CI + binary cache - [Hydra](https://github.com/NixOS/hydra)
     * switch to HTTPS? running under Tailscale VPN so little reason
+  * research [Grammatical Framework](https://www.grammaticalframework.org/)
   * open source - LLM that runs very fast
     * try
       * [LangChain.js](https://github.com/langchain-ai/langchainjs)
